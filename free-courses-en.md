@@ -1984,3 +1984,4 @@
 
 * [Complete YAML Course - Beginner to Advanced for DevOps and more!](https://www.youtube.com/watch?v=IA90BTozdow) - Kunal Kushwaha
 
+https://www.youtube.com/watch?v=qNxrPri1V0I
